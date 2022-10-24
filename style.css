@@ -3,15 +3,9 @@ body{
     text-align: center;
     height: 100%;
 }
-.container{
-border: solid black
+ .container{
+ border: solid black
 } 
-.wrapper{
-    width: 800px;
-    margin: 30px auto;
-    color: black;
-    text-align: center;
-}
 
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
