@@ -3,6 +3,9 @@ body{
     text-align: center;
     height: 100%;
 }
+.container{
+border: solid black
+} 
 .wrapper{
     width: 800px;
     margin: 30px auto;
